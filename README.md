@@ -1,6 +1,14 @@
-# fitness_trial
+# fitness_ui
 
 A new Flutter project.
+
+Output: 
+
+
+https://user-images.githubusercontent.com/85863753/141139188-3f5b3227-5ef1-409c-ab83-b11760efa6b3.mp4
+
+
+
 
 ## Getting Started
 
